@@ -1,0 +1,68 @@
+
+#world{
+padding:0px 500px  0px 500px;
+}
+#form{
+  padding:0px 500px  0px 500px;
+}
+header{
+  height:100px;
+}
+iframe{
+  margin-top: 50px;
+  margin-left:500px;
+ }
+#p{
+   margin-left:600px;
+}
+#alexa{
+  margin-left:50px;
+}
+#word{
+  margin-left:150px;
+}
+#word1{
+  margin-left:150px;
+}
+#word2{
+  margin-left:150px;
+}
+#tablet{
+  margin-right:150px;
+}
+#t{
+   margin-left:600px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  justify-content:space-evenly;
+  align-content: space-around;
+}
+@media (max-width: 600px) {
+  header {
+    flex-wrap: wrap;
+  }
+}
+#w{
+  margin-left:550px;
+}
+.amazing{
+ 
+ margin-left:50px;
+}
+.cool{
+  margin-right:50px;
+  
+}
+#why-choose-us{
+  margin-left:30px;
+  margin-right:30px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
